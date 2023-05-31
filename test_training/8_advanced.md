@@ -77,7 +77,7 @@ In conclusion, scaling experiments are vital for understanding code scalability 
   <p>
     Consider the following scalability plot for a random application.
 
-![Octocat](images/scalability_study.png)
+![scalability](https://github.com/iortizdeluzu/Hyperion/blob/main/images/scalability_study.png)
 
 At what point would you consider to be peak performance in this example.
 <ol>
