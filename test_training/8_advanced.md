@@ -1,7 +1,7 @@
 ---
-title: Advanced
-nav: true
+site: 8
 ---
+
 <style>
 .text {
   margin-bottom: 10px;
