@@ -2,6 +2,8 @@
 sort: 4
 ---
 
+# Monitoring
+
 <style>
 .text {
   margin-bottom: 10px;
@@ -9,7 +11,6 @@ sort: 4
 </style>
 
 
-# Monitoring
 
 <div align="justify">
 As we progress through our exploration of SLURM, we now approach an essential aspect of job management - monitoring. After you've submitted your job to the HPC cluster (like our Pi estimation job from the previous example), you'll want to track its status. Monitoring allows you to understand your job's progress, check its resource usage, and help identify any potential issues that could affect its successful completion.

@@ -2,13 +2,14 @@
 sort: 6
 ---
 
+# Post-Run Operations
+
 <style>
 .text {
   margin-bottom: 10px;
 }
 </style>
 
-# Post-Run Operations
 
 <div align="justify" class="text">
 Once the work is finished we should move the generated data to our home directory under /dipc or to a local folder. This is done for two main reasons:</div>
